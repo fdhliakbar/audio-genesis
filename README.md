@@ -106,3 +106,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 You can modify any part of this based on the specific details of your project or platform. Let me know if you'd like further adjustments
+
+<p><img src="./root/image/asuka-langley.gif" align="center" alt="asuka langley soryu from evangelion"></p>
